@@ -198,13 +198,13 @@
             <div class="flex flex-wrap justify-center items-center mt-8 text-gray-500 sm:justify-between">
                
                 <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-                    <img style="width: 200px;" src="https://kebonkross.yolasite.com/ws/resized-images/ab69ba52b4d6453dadedb3e9cf08bc19/rodalink.webp" alt="">
+                    <img style="width: 200px;" src="@/assets/sponsor/shimano.webp" alt="">
                 </a>
                 <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-                    <img style="width: 200px;" src="https://kebonkross.yolasite.com/ws/resized-images/6c1153b3a8b6474dbd162954df1c7959/shimano.webp" alt="">
+                    <img style="width: 200px;" src="@/assets/sponsor/rodalink.webp" alt="">
                 </a>
                 <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-                    <img style="width: 200px;" src="https://kebonkross.yolasite.com/ws/resized-images/a315a6065b144b60bb778eda51ae2940/psychloop-logo-color.webp" alt="">
+                    <img style="width: 200px;" src="@/assets/sponsor/psychloop-logo-color.webp" alt="">
                 </a>
         </div>
     </div>
