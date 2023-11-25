@@ -1,7 +1,7 @@
 <template>
     <section>
         <link rel="preload" as="fetch" href="@/assets/videobg.mp4">
-        <div class="relative flex items-center justify-center h-screen overflow-hidden bg-">
+        <div class="relative flex items-center justify-center h-full overflow-hidden bg-">
             <div class="relative z-30 p-5 text-white bg-black h-full w-full bg-opacity-50">
                 <div class="w-full bg-cover ">
                     <div class="flex items-center justify-center w-full h-full bg-opacity-50 py-12">
