@@ -1,6 +1,5 @@
 <template>
     <section id="hero">
-        <link rel="preload" as="fetch" href="@/assets/videobg.mp4">
         <div class="relative flex items-center justify-center h-full overflow-hidden bg-">
             <div class="relative z-30 p-5 text-white bg-black h-full w-full bg-opacity-50">
                 <div class="w-full bg-cover ">
@@ -9,7 +8,7 @@
                             <div class="container px-4 mx-auto">
                                 <div class="max-w-4xl mx-auto text-center">
                                     <img class="w-20 p-2 mx-auto"
-                                        src="https://kebonkross.yolasite.com/ws/media-library/3871ff814f2b41abbf0b6eaffb6bd519/cx-id-logo.png"
+                                        src="@/assets/img/cx-id-logo.png"
                                         alt="">
                                     <div class="text-white">CYCLOCROSS INDONESIA PRESENTS</div>
                                     <img class="mx-auto w-3/4" src="@/assets/kknobg.png" alt="">
