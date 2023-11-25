@@ -1,5 +1,5 @@
 <template>
-    <section>
+    <section id="hero">
         <link rel="preload" as="fetch" href="@/assets/videobg.mp4">
         <div class="relative flex items-center justify-center h-full overflow-hidden bg-">
             <div class="relative z-30 p-5 text-white bg-black h-full w-full bg-opacity-50">
@@ -44,9 +44,44 @@
         </div>
     </section>
 
-    <section class="">
+    <section id="track" class="">
         <div class="w-full bg-center bg-cover backdrop-grayscale-0"
             style="background-image: url(https://kebonkross.yolasite.com/ws/media-library/1f32c9ef8b7e402a901eb5259991bb4a/cc500925-24fc-4ca4-a46a-9b90e430c902-9710-000003dace344c62.webp);">
+            <div class="flex items-center justify-center w-full h-full bg-gray-900 bg-opacity-50 py-12">
+                <div class="text-center">
+                    <div class="container px-4 mx-auto">
+                        <div class="max-w-4xl text-white mx-auto text-center mb-4">
+
+                            <div class="text-white">Track</div>
+                            <h1
+                                class="mb-4 text-3xl font-extrabold tracking-wide leading-none text-white md:text-2xl lg:text-3xl dark:text-white">
+                                Lintasan</h1>
+                            <p class="max-w-3xl mx-auto mb-10 text-md text-gray-300">
+                                Lintasan balap berupa sirkuit tanah dilengkapi dengan artificial obstacle. Panjang lintasan
+                                yaitu 300 meter untuk 1 lap, dengan lebar 2-3 meter. Obstacle terdiri dari plank barrier,
+                                mud, dan lain-lain.
+                            </p>
+                            <p class="mb-4 text-lg">
+                                <img class=" inline-block" src="@/assets/pointmap.svg" alt="">
+                                Pekarangan halaman Lembah Pinus, Pondok Jaya, Bintaro.
+                            </p>
+                            <div class="mx-auto max-h-full" style="height:500px;">
+                                <iframe class="w-full h-full"
+                                    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyARNP6PBrYdKNmsYf09tU8jRnffQb-sFQg&amp;q=6%C2%B016%2721.4%22S+106%C2%B043%2705.2%22E"></iframe>
+                            </div>
+                        </div>
+
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="rule" class="">
+        <div class="w-full bg-center bg-cover backdrop-grayscale-0"
+            style="background-image: url(https://kebonkross.yolasite.com/ws/media-library/97887bc7d76e401b93b9be6aea90d247/v_aflvue5wk);">
             <div class="flex items-center justify-center w-full h-full bg-gray-900 bg-opacity-50 py-12">
                 <div class="text-center">
                     <div class="container px-4 mx-auto">
@@ -94,42 +129,9 @@
         </div>
     </section>
 
-    <section class="">
-        <div class="w-full bg-center bg-cover backdrop-grayscale-0"
-            style="background-image: url(https://kebonkross.yolasite.com/ws/media-library/97887bc7d76e401b93b9be6aea90d247/v_aflvue5wk);">
-            <div class="flex items-center justify-center w-full h-full bg-gray-900 bg-opacity-50 py-12">
-                <div class="text-center">
-                    <div class="container px-4 mx-auto">
-                        <div class="max-w-4xl text-white mx-auto text-center mb-4">
+    
 
-                            <div class="text-white">Track</div>
-                            <h1
-                                class="mb-4 text-3xl font-extrabold tracking-wide leading-none text-white md:text-2xl lg:text-3xl dark:text-white">
-                                Lintasan</h1>
-                            <p class="max-w-3xl mx-auto mb-10 text-md text-gray-300">
-                                Lintasan balap berupa sirkuit tanah dilengkapi dengan artificial obstacle. Panjang lintasan
-                                yaitu 300 meter untuk 1 lap, dengan lebar 2-3 meter. Obstacle terdiri dari plank barrier,
-                                mud, dan lain-lain.
-                            </p>
-                            <p class="mb-4 text-lg">
-                                <img class=" inline-block" src="@/assets/pointmap.svg" alt="">
-                                Pekarangan halaman Lembah Pinus, Pondok Jaya, Bintaro.
-                            </p>
-                            <div class="mx-auto max-h-full" style="height:500px;">
-                                <iframe class="w-full h-full"
-                                    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyARNP6PBrYdKNmsYf09tU8jRnffQb-sFQg&amp;q=6%C2%B016%2721.4%22S+106%C2%B043%2705.2%22E"></iframe>
-                            </div>
-                        </div>
-
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section>
+    <section id="category">
         <div class="w-full bg-center bg-cover"
             style="background-image: url(https://kebonkross.yolasite.com/ws/media-library/1eed056ca6fb417f8f7d9d30ee4dc05f/686b5498-69f8-4e6c-a48b-95681aef3843-9710-000003db0433f8b5.webp);">
             <div class="flex items-center justify-center w-full h-full bg-gray-900 bg-opacity-50 py-12">
@@ -235,7 +237,7 @@
             title="KEBON KROSS CX-ID 2023 RACE "></iframe>
     </section>
 
-    <section class="bg-white dark:bg-gray-900 mt-12">
+    <section id="sponsor" class="bg-white dark:bg-gray-900 mt-12">
 
         <div class="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
             <span class="font-semibold text-gray-400 uppercase">SPONSOR & PARTNERSHIP</span>
