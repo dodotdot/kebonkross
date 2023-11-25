@@ -204,7 +204,7 @@
                     <img style="width: 200px;" src="https://kebonkross.yolasite.com/ws/resized-images/6c1153b3a8b6474dbd162954df1c7959/shimano.webp" alt="">
                 </a>
                 <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-                    <img style="width: 200px;" src=" https://kebonkross.yolasite.com/ws/resized-images/a315a6065b144b60bb778eda51ae2940/psychloop-logo-color.webp" alt="">
+                    <img style="width: 200px;" src="https://kebonkross.yolasite.com/ws/resized-images/a315a6065b144b60bb778eda51ae2940/psychloop-logo-color.webp" alt="">
                 </a>
         </div>
     </div>
