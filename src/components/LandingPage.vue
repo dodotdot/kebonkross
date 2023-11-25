@@ -14,8 +14,8 @@
                                     <img class="mx-auto w-3/4" src="@/assets/kknobg.png" alt="">
 
                                     <h1
-                                        class="mb-4 text-3xl font-extrabold tracking-wide leading-none text-white md:text-2xl lg:text-3xl dark:text-white">
-                                        Sabtu, 16 DESEMBER 2023</h1>
+                                        class="mb-4 text-2xl font-extrabold leading-none text-white md:text-2xl lg:text-xl dark:text-white">
+                                        Sabtu, 16 Desember 2023</h1>
                                     <p class="max-w-3xl mx-auto mb-10 text-md text-gray-300">
                                         kebon kross merupakan acara gathering dan balap sepeda yang diinisiasi oleh cyclocross
                                         indonesia (cxid). secara garis besar acara ini merupakan balap cyclocross yang dikemas
@@ -34,7 +34,7 @@
                     </div>
                 </div>
             </div>
-            <video autoplay loop class="absolute z-10 w-auto min-w-full min-h-full max-w-none">
+            <video autoplay muted loop class="absolute z-10 w-auto min-w-full min-h-full max-w-none">
                 <source
                     src="@/assets/videobg.mp4"
                     type="video/mp4" />
