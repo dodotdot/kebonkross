@@ -24,7 +24,7 @@
                                         yang seru dan menantang.
 
                                     </p>
-                                    <a class="inline-block bg-green-600 w-full md:w-auto mb-4 cursor-auto md:mr-6 py-5 px-8 text-sm font-bold uppercase border-2 border-transparent bg-gray-200 rounded hover:bg-gray-100 text-white transition duration-200"
+                                    <a class="inline-block bg-green-600 cursor-pointer w-full md:w-auto mb-4 md:mr-6 py-5 px-8 text-sm font-bold uppercase border-2 border-transparent rounded hover:bg-green-800 text-white transition duration-200"
                                         href="#registernow">Daftar Balap</a>
                                 </div>
                             </div>
@@ -57,7 +57,7 @@
                                 Lintasan</h1>
                             <p class="max-w-3xl mx-auto mb-10 text-md text-gray-300">
                                 Lintasan balap berupa sirkuit tanah dilengkapi dengan artificial obstacle. Panjang lintasan
-                                yaitu 300 meter untuk 1 lap, dengan lebar 2-3 meter. Obstacle terdiri dari plank barrier,
+                                kurang lebih 300 meter untuk 1 lap, dengan lebar 2-3 meter. Obstacle terdiri dari plank barrier,
                                 mud, dan lain-lain.
                             </p>
                             <p class="mb-4 text-lg">
@@ -85,41 +85,16 @@
                 <div class="text-center">
                     <div class="container px-4 mx-auto">
                         <h2
-                                class="my-8 text-3xl tracking-wide lg:text-4xl tracking-tight font-extrabold text-white dark:text-white">
-                                Peraturan</h2>
-                         <div class="grid gap-2 lg:grid-cols-2">
+                                class="my-8 text-3xl tracking-wide lg:text-4xl font-extrabold text-white dark:text-white">
+                                Peraturan Umum</h2>
+                         <div class="w-full">
                             <article
-                                class="p-4 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-                                <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
-                                        href="#">PERATURAN UMUM</a></h2>
+                                class="p-4 bg-white w-full rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                                 <ol
-                                    class="max-w-md space-y-1 text-left text-gray-500 text-sm list-decimal list-inside dark:text-gray-400">
-                                    <li>Peserta adalah bukan/mantan atlet.</li>
-                                    <li>Peserta wajib menggunakan helm dan sepatu.</li>
-                                    <li>Setiap peserta harus tunduk kepada keputusan panitia.</li>
-                                    <li>Keputusan panitia adalah mutlak.</li>
-                                    <li>Peraturan dan perlengkapan sepeda sesuai kategori terlampir.</li>
-                                    <li>Tiap kategori harus melalui 4 (empat) putaran untuk babak penyisihan dan 5 (lima)
-                                        putaran untuk final.</li>
-                                    <li>Pembagian kelas (pelepasan jumlah pembalap pada babak penyisihan) akan disesuaikan
-                                        dengan kondisi di lapangan.</li>
-                                    <li>Jumlah peserta minimal tiap kategori adalah 5 (lima) orang, jika kurang, kategori
-                                        tersebut akan digabung kelas lainnya.</li>
-                                    <li>Setiap kategori akan diambil 3 (tiga) juara.</li>
-                                    <li>Sepeda setiap peserta harus lolos seleksi race director.</li>
-                                </ol>
-                            </article>
-                            <article
-                                class="p-4 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-                                <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
-                                        href="#">PERATURAN LOMBA</a></h2>
-                                <ol
-                                    class="max-w-md space-y-1 text-left text-gray-500 text-sm list-decimal list-inside dark:text-gray-400">
-                                    <li>Peserta akan melalui babak penyisihan dan final.</li>
-                                    <li>Pemenang di babak penyisihan akan lolos ke babak final.</li>
-                                    <li>Pemenang babak penyisihan adalah (2-4 terbaik).</li>
-                                    <li>Peserta boleh mengikuti lebih dari satu kategori selama tidak ada pelanggaran
-                                        regulasi khusus tentang sepeda.</li>
+                                    class="max-w-md space-y-1 text-left text-gray-500 list-decimal list-inside dark:text-gray-400">
+                                    <li>Wajib menggunakan helm dan sepatu</li>
+                                    <li>Mengutamakan keselamatan diri sendiri dan peserta lain</li>
+                                    <li>menjunjung tinggi nilai sportifitas </li>
                                 </ol>
                             </article>
                         </div>
@@ -151,16 +126,12 @@
                                     src="https://kebonkross.yolasite.com/ws/media-library/ebf723d0f086453a81ca6a45739d3db4/732cf07b-0d7c-41ac-a3b5-ddde9ed53748-9710-000003dab41ee332.webp">
                                 <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
                                         href="#">Cyclocross (Open)</a></h2>
-                                <ol
-                                    class="max-w-md space-y-1 text-gray-500 text-sm list-decimal list-inside dark:text-gray-400">
+                                <ul
+                                    class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
                                     <li>
-                                        Menggunakan frame CX/gravel dan fork rigid dengan ukuran ban maksimum 700x38c
-                                        (bukan frame MTB XC atau sejenisnya).
+                                        700c, max 35mm tire wide, max cropbar flare 15deg
                                     </li>
-                                    <li>Sepeda dilengkapi dengan rem depan dan belakang.</li>
-                                    <li>Sepeda multispeed 1x atau 2x.</li>
-                                    <li>Menggunakan dropbar</li>
-                                </ol>
+                                </ul>
                             </article>
                             <article
                                 class="p-4 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
@@ -169,11 +140,10 @@
                                 <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
                                         href="#">Tracklocross (Open)</a></h2>
                                 <ol
-                                    class="max-w-md space-y-1 text-gray-500 text-sm list-decimal list-inside dark:text-gray-400">
+                                    class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
                                     <li>
-                                        Fixed gear.
+                                        Fixed gear, No brakes 
                                     </li>
-                                    <li>Breakless</li>
                                 </ol>
                             </article>
                             <article
@@ -183,15 +153,9 @@
                                 <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
                                         href="#">Vintage 26" (Open)</a></h2>
                                 <ol
-                                    class="max-w-md space-y-1 text-gray-500 text-sm list-decimal list-inside dark:text-gray-400">
-                                    <li>Menggunakan frame MTB 26 maksimum produksi tahun 2000 (modifikasi rem menajadi disc
-                                        diperbolehkan).
+                                    class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
+                                    <li>all MTB production before 2001
                                     </li>
-                                    <li>Menggunakan fork suspensi/rigid.</li>
-                                    <li>Menggunakan ban lingkar 26 dengan lebar bebas.</li>
-                                    <li>Menggunakan rem depan dan belakang.</li>
-                                    <li>Multispeed.</li>
-                                    <li>Menggunakan flatbar/dropbar/dsb.</li>
                                 </ol>
                             </article>
                             <article
@@ -201,15 +165,10 @@
                                 <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
                                         href="#">FFA/Free For All (Open)</a></h2>
                                 <ol
-                                    class="max-w-md space-y-1 text-gray-500 text-sm list-decimal list-inside dark:text-gray-400">
+                                    class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
                                     <li>
-                                        Diameter roda 26 sampai dengan 29/700c (tanpa suspensi).
+                                        Full rigid, non-MTB, dropbar/flatbar
                                     </li>
-                                    <li>Jenis sepeda bebas.</li>
-                                    <li>Tanpa suspensi belakang.</li>
-                                    <li>Tanpa suspensi belakang.</li>
-                                    <li>Single atau multi speed.</li>
-                                    <li>Menggunakan rem.</li>
                                 </ol>
                             </article>
                             <article
@@ -219,10 +178,8 @@
                                 <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
                                         href="#">Heavyweight (Open)</a></h2>
                                 <ol
-                                    class="max-w-md space-y-1 text-gray-500 text-sm list-decimal list-inside dark:text-gray-400">
-                                    <li>All kind of bike and wheel</li>
-                                    <li>Min weight around 85kg</li>
-                                    <li>wear helmet & shoes</li>
+                                    class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
+                                    <li>Minimum waist size ... (lingkar pinggang minimal)cm</li>
                                 </ol>
                             </article>
                         </div>
