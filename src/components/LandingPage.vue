@@ -179,7 +179,7 @@
                                         href="#">Heavyweight (Open)</a></h2>
                                 <ol
                                     class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
-                                    <li>Minimum waist size ... (lingkar pinggang minimal)cm</li>
+                                    <li>Minimum weight round 85kg size (lingkar pinggang min 90cm)</li>
                                 </ol>
                             </article>
                         </div>
