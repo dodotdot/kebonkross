@@ -24,8 +24,8 @@
                                         yang seru dan menantang.
 
                                     </p>
-                                    <a class="inline-block w-full md:w-auto mb-4 md:mr-6 py-5 px-8 text-sm font-bold uppercase border-2 border-transparent bg-gray-200 rounded hover:bg-gray-100 text-gray-800 transition duration-200"
-                                        href="#registernow">Register now</a>
+                                    <a class="inline-block bg-green-600 w-full md:w-auto mb-4 cursor-auto md:mr-6 py-5 px-8 text-sm font-bold uppercase border-2 border-transparent bg-gray-200 rounded hover:bg-gray-100 text-white transition duration-200"
+                                        href="#registernow">Daftar Balap</a>
                                 </div>
                             </div>
 
@@ -84,6 +84,9 @@
             <div class="flex items-center justify-center w-full h-full bg-gray-900 bg-opacity-50 py-12">
                 <div class="text-center">
                     <div class="container px-4 mx-auto">
+                        <h2
+                                class="my-8 text-3xl tracking-wide lg:text-4xl tracking-tight font-extrabold text-white dark:text-white">
+                                Peraturan</h2>
                          <div class="grid gap-2 lg:grid-cols-2">
                             <article
                                 class="p-4 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
@@ -218,7 +221,7 @@
                                 <ol
                                     class="max-w-md space-y-1 text-gray-500 text-sm list-decimal list-inside dark:text-gray-400">
                                     <li>All kind of bike and wheel</li>
-                                    <li>Min weight in 85kg</li>
+                                    <li>Min weight around 85kg</li>
                                     <li>wear helmet & shoes</li>
                                 </ol>
                             </article>
