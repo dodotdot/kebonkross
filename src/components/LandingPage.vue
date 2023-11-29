@@ -219,9 +219,19 @@
 </section></template>
 
 <script>
+import { event } from 'vue-gtag'
+
 export default {
-    mounted() {
+    async mounted() {
         Tally.loadEmbeds();
+    },
+    methods:{
+        btnClick(){
+            event('click-daftar', {
+                'event-label': 'user-click-register-form',
+                value: 1
+            })
+        }
     }
 }
 </script>
