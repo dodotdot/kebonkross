@@ -15,7 +15,7 @@ app.use(VueGtag, {
     appName:'Kebonkross',
     pageTrackerScreenviewEnabled: true,
     config: {
-        id: 'G-PNT7XW151X'
+        id: 'G-8D69RHQSVV'
     }
 })
 app.mount('#app')
