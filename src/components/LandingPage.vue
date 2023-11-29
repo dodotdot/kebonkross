@@ -129,7 +129,7 @@
                                 <ul
                                     class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
                                     <li>
-                                        700c, max 35mm tire wide, max cropbar flare 15deg
+                                        700c, max 35mm tire wide, max dropbar flare 15deg
                                     </li>
                                 </ul>
                             </article>
