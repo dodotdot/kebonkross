@@ -17,12 +17,9 @@
                                         class="mb-4 text-2xl font-extrabold leading-none text-white md:text-2xl lg:text-xl dark:text-white">
                                         Sabtu, 16 Desember 2023</h1>
                                     <p class="max-w-3xl mx-auto mb-10 text-md text-gray-300">
-                                        kebon kross merupakan acara gathering dan balap sepeda yang diinisiasi oleh cyclocross
-                                        indonesia (cxid). secara garis besar acara ini merupakan balap cyclocross yang dikemas
-                                        secara kasual namun tetap kental akan unsur-unsur balap cyclocross. area lintasan balap
-                                        berupa kebun yang terbengkalai namun diolah sedemikian rupa sehingga menjadi lintasan balap
-                                        yang seru dan menantang.
-
+                                        KEBONKROSS adalah Lebaran-nya Cyclocross
+                                        Indonesia (CXID). KEBONKROSS sendiri merupakan acara kumpulnya pesepeda yang dibalut dengan kegiatan balap secara umum
+                                        namun tetap dengan nuansa balap ala cyclocross, dimana lintasan balap berupa tanah yang dipadu dengan beberapa rintangan buatan maupun alami.
                                     </p>
                                     <a class="inline-block bg-green-600 cursor-pointer w-full md:w-auto mb-4 md:mr-6 py-5 px-8 text-sm font-bold uppercase border-2 border-transparent rounded hover:bg-green-800 text-white transition duration-200"
                                         href="#registernow">Daftar Balap</a>
