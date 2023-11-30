@@ -194,7 +194,7 @@
                                 <ol
                                     class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
                                     <li>All kind bikes except e-bike</li>
-                                    <li>Minimum weight 85kg size atau lingkar pinggang min 90cm</li>
+                                    <li>Minimum weight 85kg size dan/atau lingkar pinggang min 90cm</li>
                                 </ol>
                             </article>
                         </div>
