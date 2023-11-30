@@ -117,7 +117,7 @@
                                 class="mb-4 text-3xl tracking-wide lg:text-4xl tracking-tight font-extrabold text-white dark:text-white">
                                 Category</h2>
                         </div>
-                        <div class="grid gap-4 lg:grid-cols-6">
+                        <div class="grid gap-4 lg:grid-cols-3">
                             <article
                                 class="p-4 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                                 <img class="h-auto"
@@ -156,6 +156,9 @@
                                     </li>
                                 </ol>
                             </article>
+                            
+                        </div>
+                        <div class="grid gap-4 lg:grid-cols-3">
                             <article
                                 class="p-4 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                                 <img class="h-auto"
