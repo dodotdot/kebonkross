@@ -14,7 +14,7 @@
                                     <img class="mx-auto w-3/4" src="@/assets/logo-kebonkross.png" alt="">
 
                                     <h1
-                                        class="mb-4 text-2xl font-extrabold leading-none text-white md:text-2xl lg:text-xl dark:text-white">
+                                        class="my-8 text-2xl font-extrabold leading-none text-white md:text-2xl lg:text-2xl dark:text-white">
                                         Sabtu, 16 Desember 2023</h1>
                                     <p class="max-w-3xl mx-auto mb-10 text-md text-gray-300">
                                         KEBONKROSS adalah "Lebaran-nya" Cyclocross
