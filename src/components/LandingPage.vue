@@ -121,9 +121,9 @@
                             <article
                                 class="p-4 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                                 <img class="h-auto"
-                                    src="https://kebonkross.yolasite.com/ws/media-library/ebf723d0f086453a81ca6a45739d3db4/732cf07b-0d7c-41ac-a3b5-ddde9ed53748-9710-000003dab41ee332.webp">
+                                    src="@/assets/img/cx.jpg">
                                 <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
-                                        href="#">Cyclocross (Open)</a></h2>
+                                        href="#">Cyclocross (Men Open)</a></h2>
                                 <ul
                                     class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
                                     <li>
@@ -134,9 +134,9 @@
                             <article
                                 class="p-4 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                                 <img class="h-auto"
-                                    src="https://kebonkross.yolasite.com/ws/media-library/4e5eb19a86934b63afeaea69eef2a62c/0439a9eb-f6ea-4168-9b7d-12272a617a3c-9710-000003daf3f9f402.webp">
+                                    src="@/assets/img/tracklo.jpg">
                                 <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
-                                        href="#">Tracklocross (Open)</a></h2>
+                                        href="#">Tracklocross (Men Open)</a></h2>
                                 <ol
                                     class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
                                     <li>
@@ -147,9 +147,9 @@
                             <article
                                 class="p-4 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                                 <img class="h-auto"
-                                    src="https://kebonkross.yolasite.com/ws/media-library/5da1ed510aa944e1b9b43dd16ed3116c/3a256307-938f-4c5f-934b-51fefc752276-9710-000003da2e475639.webp">
+                                    src="@/assets/img/mtb26.jpg">
                                 <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
-                                        href="#">Vintage 26" (Open)</a></h2>
+                                        href="#">Vintage 26" (Men Open)</a></h2>
                                 <ol
                                     class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
                                     <li>all MTB production before 2001
@@ -159,9 +159,22 @@
                             <article
                                 class="p-4 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                                 <img class="h-auto"
-                                    src="https://kebonkross.yolasite.com/ws/media-library/ca0a0bf2aef944ba98fa20f221f91e97/7357f491-44f3-43e5-b0bc-c43c490b4e08-9710-000003dabe1b7e83.webp">
+                                    src="@/assets/img/ffa-men.jpg">
                                 <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
-                                        href="#">FFA/Free For All (Open)</a></h2>
+                                        href="#">FFA/Free For All (Men Open)</a></h2>
+                                <ol
+                                    class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
+                                    <li>
+                                        Full rigid, non-MTB, dropbar/flatbar
+                                    </li>
+                                </ol>
+                            </article>
+                             <article
+                                class="p-4 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
+                                <img class="h-auto"
+                                    src="@/assets/img/ffa-women.jpg">
+                                <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
+                                        href="#">FFA/Free For All (Women Open)</a></h2>
                                 <ol
                                     class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
                                     <li>
@@ -172,9 +185,9 @@
                             <article
                                 class="p-4 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                                 <img class="h-auto"
-                                    src="https://kebonkross.yolasite.com/ws/media-library/1f32c9ef8b7e402a901eb5259991bb4a/cc500925-24fc-4ca4-a46a-9b90e430c902-9710-000003dace344c62.webp">
+                                    src="@/assets/img/heavyweight.jpg">
                                 <h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
-                                        href="#">Heavyweight (Open)</a></h2>
+                                        href="#">Heavyweight (Men Open)</a></h2>
                                 <ol
                                     class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
                                     <li>All kind bikes except e-bike</li>
