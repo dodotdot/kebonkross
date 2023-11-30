@@ -1,7 +1,7 @@
 <template>
     <section id="hero">
         <div class="relative flex items-center justify-center h-full overflow-hidden bg-">
-            <div class="relative z-30 p-5 text-white bg-black h-full w-full bg-opacity-50">
+            <div class="relative z-30 p-5 text-white bg-black h-full w-full bg-opacity-70">
                 <div class="w-full bg-cover ">
                     <div class="flex items-center justify-center w-full h-full bg-opacity-50 py-12">
                         <div class="text-center">
@@ -10,8 +10,8 @@
                                     <img class="w-20 p-2 mx-auto"
                                         src="@/assets/img/cx-id-logo.png"
                                         alt="">
-                                    <div class="text-white">CYCLOCROSS INDONESIA PRESENTS</div>
-                                    <img class="mx-auto w-3/4" src="@/assets/kknobg.png" alt="">
+                                    <div class="text-white mb-4">CYCLOCROSS INDONESIA</div>
+                                    <img class="mx-auto w-3/4" src="@/assets/logo-kebonkross.png" alt="">
 
                                     <h1
                                         class="mb-4 text-2xl font-extrabold leading-none text-white md:text-2xl lg:text-xl dark:text-white">
@@ -34,7 +34,7 @@
             </div>
             <video autoplay muted loop class="absolute z-10 w-auto min-w-full min-h-full max-w-none"  poster="@/assets/img/bg-hero.jpeg">
                 <source
-                    src="@/assets/videobg.mp4"
+                    src="@/assets/img/bg-hero.jpeg"
                     type="video/mp4" />
                 Your browser does not support the video tag.
             </video>
@@ -152,7 +152,7 @@
                                         href="#">Vintage 26" (Men Open)</a></h2>
                                 <ol
                                     class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
-                                    <li>all MTB production before 2001
+                                    <li>All MTB production before 2001
                                     </li>
                                 </ol>
                             </article>
@@ -213,10 +213,30 @@
 
     <section id="sponsor" class="bg-white dark:bg-gray-900 mt-12">
 
-        <div class="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
+        <div class="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-12">
             <span class="font-semibold text-gray-400 uppercase">SPONSOR & PARTNERSHIP</span>
             <div class="flex flex-wrap justify-center items-center text-gray-500 sm:justify-between">
-
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/marin.png" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/rodalintas.png" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/zaptap.webp" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/BRYTON.png" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/finishline-black.png" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/schwalbe-black.png" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/topeak.png" alt="">
+                </a>
                 <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/shimano.webp" alt="">
                 </a>
@@ -224,8 +244,30 @@
                     <img style="width: 200px;" src="@/assets/sponsor/rodalink.webp" alt="">
                 </a>
                 <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/charliebike-logo.png" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/psychloop-logo-color.webp" alt="">
                 </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/sunchaser.webp" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/jack-cycle.jpg" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/castle.webp" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/pedaltroopers.png" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/vaka.webp" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/wisenuff.png" alt="">
+                </a>
+
             </div>
         </div>
 
