@@ -22,6 +22,8 @@
                                         KEBONKROSS sendiri merupakan acara kumpulnya pesepeda yang dibalut dengan kegiatan balap secara umum
                                         namun tetap dengan nuansa balap ala cyclocross, dimana lintasan balap berupa tanah yang dipadu dengan beberapa rintangan buatan maupun alami.
                                     </p>
+
+                                    <p class="text-xl my-6 font-semibold">KEBONKROSS 2023, satu dekade Cyclocross Indonesia</p>
                                     <a class="inline-block bg-green-600 cursor-pointer w-full md:w-auto mb-4 md:mr-6 py-5 px-8 text-sm font-bold uppercase border-2 border-transparent rounded hover:bg-green-800 text-white transition duration-200"
                                         href="#registernow">Daftar Balap</a>
                                 </div>
@@ -267,7 +269,24 @@
                 <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/wisenuff.png" alt="">
                 </a>
-
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/affa_cc.jpg" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/tokonagie.jpg" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/laminggi.jpg" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/resistance_racingid.jpg" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/rawkcaps.jpg" alt="">
+                </a>
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <img style="width: 200px;" src="@/assets/sponsor/sikluscycling.jpg" alt="">
+                </a>
             </div>
         </div>
 
