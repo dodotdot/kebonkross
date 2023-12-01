@@ -225,64 +225,64 @@
                 <a href="https://www.instagram.com/rodalintas/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/rodalintas.png" alt="">
                 </a>
-                <a href="https://www.instagram.com/zaptap.id/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/zaptap.webp" alt="">
                 </a>
-                <a href="https://www.instagram.com/brytonsport/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/BRYTON.png" alt="">
                 </a>
-                <a href="https://www.instagram.com/finishlineusa/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/finishline-black.png" alt="">
                 </a>
-                <a href="https://www.instagram.com/schwalbetires/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/schwalbe-black.png" alt="">
                 </a>
-                <a href="https://www.instagram.com/topeak/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/topeak.png" alt="">
                 </a>
-                <a href="https://www.instagram.com/shimano.bt.indonesia/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/shimano.webp" alt="">
                 </a>
-                <a href="https://www.instagram.com/charliebikeid/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/charliebike-logo.png" alt="">
                 </a>
-                <a href="https://www.instagram.com/psychloop_/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/psychloop-logo-color.webp" alt="">
                 </a>
-                <a href="https://www.instagram.com/sunchasersclub.house/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/sunchaser.webp" alt="">
                 </a>
-                <a href="https://www.instagram.com/jack_learns_to_prasojo/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/jack-cycle.jpg" alt="">
                 </a>
-                <a href="https://www.instagram.com/castlecycling/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/castle.webp" alt="">
                 </a>
-                <a href="https://www.instagram.com/pedaltroopers/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/pedaltroopers.png" alt="">
                 </a>
-                <a href="https://www.instagram.com/kopivaka/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/vaka.webp" alt="">
                 </a>
                 <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/wisenuff.png" alt="">
                 </a>
-                <a href="https://www.instagram.com/affa.cc/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/affa_cc.jpg" alt="">
                 </a>
-                <a href="https://www.instagram.com/tokonagie/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/tokonagie.jpg" alt="">
                 </a>
-                <a href="https://www.instagram.com/laminggi/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/laminggi.jpg" alt="">
                 </a>
-                <a href="https://www.instagram.com/resistanceracing_id" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/resistance_racingid.jpg" alt="">
                 </a>
-                <a href="https://www.instagram.com/rawkcaps/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/rawkcaps.jpg" alt="">
                 </a>
-                <a href="https://www.instagram.com/sikluscycling/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                <a href="#" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/sikluscycling.jpg" alt="">
                 </a>
             </div>
