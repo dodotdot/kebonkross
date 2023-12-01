@@ -15,6 +15,8 @@
                                     <h1
                                         class="my-8 text-2xl font-extrabold leading-none text-white md:text-2xl lg:text-2xl dark:text-white">
                                         Sabtu, 16 Desember 2023</h1>
+                                    <!-- <vue3-flip-countdown 
+                                    deadline="2023-12-15 00:00:00" /> -->
                                     <p class="max-w-3xl mx-auto mb-10 text-md text-gray-300">
                                         KEBONKROSS adalah "Lebaran-nya" Cyclocross
                                         Indonesia (CXID). <br>
@@ -241,9 +243,6 @@
                 <a href="https://www.instagram.com/shimano.bt.indonesia/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/shimano.webp" alt="">
                 </a>
-                <a href="https://www.instagram.com/rodalinkindonesia/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-                    <img style="width: 200px;" src="@/assets/sponsor/rodalink.webp" alt="">
-                </a>
                 <a href="https://www.instagram.com/charliebikeid/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                     <img style="width: 200px;" src="@/assets/sponsor/charliebike-logo.png" alt="">
                 </a>
@@ -294,8 +293,12 @@
 
 <script>
 import { event } from 'vue-gtag'
+import {Countdown} from 'vue3-flip-countdown'
 
 export default {
+    components: {
+        Countdown
+    },
     async mounted() {
         Tally.loadEmbeds();
     },
