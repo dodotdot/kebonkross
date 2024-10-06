@@ -12,9 +12,9 @@
                                         alt="">
                                     <img class="mx-auto w-3/4" src="@/assets/logo-kebonkross.png" alt="">
 
-                                    <h1
+                                    <!-- <h1
                                         class="my-8 text-2xl font-extrabold leading-none text-white md:text-2xl lg:text-2xl dark:text-white">
-                                        Sabtu, 16 Desember 2023</h1>
+                                        Sabtu, 16 Desember 2023</h1> -->
                                     <!-- <vue3-flip-countdown 
                                     deadline="2023-12-15 00:00:00" /> -->
                                     <p class="max-w-3xl mx-auto mb-10 text-md text-gray-300">
@@ -24,7 +24,7 @@
                                         namun tetap dengan nuansa balap ala cyclocross, dimana lintasan balap berupa tanah yang dipadu dengan beberapa rintangan buatan maupun alami.
                                     </p>
 
-                                    <p class="text-xl my-6 font-semibold">KEBONKROSS 2023, satu dekade Cyclocross Indonesia</p>
+                                    <p class="text-xl my-6 font-semibold">KEBONKROSS 2024</p>
                                     <a class="inline-block bg-green-600 cursor-pointer w-full md:w-auto mb-4 md:mr-6 py-5 px-8 text-sm font-bold uppercase border-2 border-transparent rounded hover:bg-green-800 text-white transition duration-200"
                                         href="#registernow">Daftar Balap</a>
                                 </div>
@@ -61,14 +61,14 @@
                                 kurang lebih 300 meter untuk 1 lap, dengan lebar 2-3 meter. Obstacle terdiri dari plank barrier,
                                 mud, dan lain-lain.
                             </p>
-                            <p class="mb-4 text-lg">
+                            <!-- <p class="mb-4 text-lg">
                                 <img class=" inline-block" src="@/assets/pointmap.svg" alt="">
                                 Pekarangan halaman Lembah Pinus, Pondok Jaya, Bintaro.
                             </p>
                             <div class="mx-auto max-h-full" style="height:500px;">
                                 <iframe class="w-full h-full"
                                     src="https://www.google.com/maps/embed/v1/place?key=AIzaSyARNP6PBrYdKNmsYf09tU8jRnffQb-sFQg&amp;q=6%C2%B016%2721.4%22S+106%C2%B043%2705.2%22E"></iframe>
-                            </div>
+                            </div> -->
                         </div>
 
                     </div>
@@ -211,12 +211,12 @@
         <iframe
             data-tally-src="https://tally.so/embed/w8ZKRA?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
             loading="lazy" width="100%" height="2090" frameborder="0" marginheight="0" marginwidth="0"
-            title="KEBON KROSS CX-ID 2023 RACE "></iframe>
+            title="KEBON KROSS CX-ID 2024 RACE "></iframe>
     </section>
 
     <section id="sponsor" class="bg-white dark:bg-gray-900 mt-12">
 
-        <div class="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-12">
+        <!-- <div class="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-12">
             <span class="font-semibold text-gray-400 uppercase">SPONSOR & PARTNERSHIP</span>
             <div class="flex flex-wrap justify-center items-center text-gray-500 sm:justify-between">
                 <a href="https://www.instagram.com/marinbikesid/" class="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
@@ -286,7 +286,7 @@
                     <img style="width: 200px;" src="@/assets/sponsor/sikluscycling.jpg" alt="">
                 </a>
             </div>
-        </div>
+        </div> -->
 
 
 </section></template>
