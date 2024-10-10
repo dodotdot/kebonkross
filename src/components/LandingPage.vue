@@ -118,7 +118,7 @@
                         <div class="mx-auto max-w-screen-sm text-center lg:mb-16 mb-8">
                             <h2
                                 class="mb-4 text-3xl tracking-wide lg:text-4xl tracking-tight font-extrabold text-white dark:text-white">
-                                Category</h2>
+                                Kategori</h2>
                         </div>
                         <div class="grid gap-4 lg:grid-cols-3">
                             <article
