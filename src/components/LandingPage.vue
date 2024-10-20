@@ -16,7 +16,7 @@
                                     <h1
                                         class="my-8 text-3xl font-extrabold leading-none text-white md:text-3xl lg:text-3xl dark:text-white">
                                         Sabtu, 30 November 2024</h1>
-                                     <p class="text-lg mb-5 -mt-4">07:00 AM - Until Done</p>   
+                                     <p class="text-lg mb-5 -mt-4">Start 07:00 AM - Until Done</p>   
                                      <div class=" text-white text-md w-full mx-2 p-2 mb-6">
                                          <vue3-flip-countdown 
                                          class="p-2 bg-white mx-3 w-1/2" 
