@@ -1,7 +1,8 @@
 <template>
     <section id="hero">
-        <div class="relative flex items-center justify-center h-full overflow-hidden bg-">
-            <div class="relative z-30 p-5 text-white bg-black h-full w-full bg-opacity-70">
+        <div class="relative flex items-center justify-center h-full w-full bg-cover overflow-hidden backdrop-bg">
+            <div class="relative z-30 p-5 text-white bg-black h-full w-full bg-opacity-70 "
+                >
                 <div class="w-full bg-cover ">
                     <div class="flex items-center justify-center w-full h-full bg-opacity-50 py-12">
                         <div class="text-center">
@@ -35,12 +36,12 @@
                     </div>
                 </div>
             </div>
-            <video autoplay muted loop class="absolute z-10 w-auto min-w-full min-h-full max-w-none"  poster="@/assets/img/bg-hero.jpeg">
+            <!-- <video autoplay muted loop class="absolute z-10 w-auto min-w-full min-h-full max-w-none"  poster="@/assets/img/bg-hero.jpeg">
                 <source
                     src="@/assets/img/bg-hero.jpeg"
                     type="video/mp4" />
                 Your browser does not support the video tag.
-            </video>
+            </video> -->
         </div>
     </section>
 
@@ -209,9 +210,10 @@
 
     <section id="registernow" class="mt-10 border border-gray-300 rounded-md p-2 mx-auto xl:w-1/2 bg-center center">
         <iframe
-            data-tally-src="https://tally.so/embed/w8ZKRA?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
+            data-tally-src="https://tally.so/embed/waDGPX?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
             loading="lazy" width="100%" height="2090" frameborder="0" marginheight="0" marginwidth="0"
-            title="KEBON KROSS CX-ID 2024 RACE "></iframe>
+            title="KEBON KROSS CX-ID 2024 RACE "
+            ></iframe>
     </section>
 
     <section id="sponsor" class="bg-white dark:bg-gray-900 mt-12">
@@ -290,7 +292,11 @@
 
 
 </section></template>
-
+<style scoped>
+.backdrop-bg {
+    background-image: url('@/assets/img/bg-hero.jpeg'); /* Correct path */
+}
+</style>
 <script>
 import { event } from 'vue-gtag'
 import {Countdown} from 'vue3-flip-countdown'
