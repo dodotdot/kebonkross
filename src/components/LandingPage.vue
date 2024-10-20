@@ -22,7 +22,7 @@
                                          class="p-2 bg-white mx-3 w-1/2" 
                                          countdownSize="2rem"
                                         labelSize="1rem"
-                                        deadline="2024-11-15 00:00:00" />
+                                        deadline="2024-11-30 00:00:00" />
                                      </div>   
                                      
                                     <p class="max-w-3xl mx-auto mb-10 text-md text-gray-300">
