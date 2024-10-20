@@ -33,8 +33,12 @@
                                     </p>
 
                                     <p class="text-xl my-6 font-semibold">KEBONKROSS 2024 - Registration is now open</p>
-                                    <a class="inline-block bg-green-600 cursor-pointer w-full md:w-auto mb-4 md:mr-6 py-5 px-8 text-sm font-bold uppercase border-2 border-transparent rounded hover:bg-green-800 text-white transition duration-200"
-                                        href="#registernow">Daftar Sekarang</a>
+                                    <a class="inline-block bg-green-600 cursor-pointer w-full md:w-auto mx-auto mb-4 md:mr-6 py-5 px-8 text-sm font-bold uppercase border-2 border-transparent rounded hover:bg-green-800 text-white transition duration-200"
+                                        href="#registernow"><span class="text-lg">👋🏼</span> Daftar Sekarang</a>
+                                    <p class="mt-10 text-lg my-6 font-semibold mx-auto cursor-pointer underline">
+                                       <a href="https://tally.so/r/nWMyoR" target="_blank">✨ Pendaftaran tenant ✨</a>
+                                    </p>
+
                                 </div>
                             </div>
 
@@ -63,7 +67,7 @@
                             <div class="text-white">Track</div>
                             <h1
                                 class="mb-4 text-3xl font-extrabold tracking-wide leading-none text-white md:text-2xl lg:text-3xl dark:text-white">
-                                Lintasan</h1>
+                                Lintasan 🎢</h1>
                             <p class="max-w-3xl mx-auto mb-10 text-md text-gray-300">
                                 Lintasan balap berupa sirkuit tanah dilengkapi dengan artificial obstacle. Panjang lintasan
                                 kurang lebih 300 meter untuk 1 lap, dengan lebar 2-3 meter. Obstacle terdiri dari plank barrier,
@@ -97,7 +101,7 @@
                     <div class="container px-4 mx-auto">
                         <h2
                                 class="my-8 italic text-3xl tracking-wide lg:text-4xl font-extrabold text-white dark:text-white">
-                                “KEBONKROSS IS WRESTLING”</h2>
+                                “KEBONKROSS IS WRESTLING 🤼‍♂️”</h2>
                         <p class="p-2 text-white">Bersiaplah untuk tantangan penuh adrenalin di Kebonkross 2024!
 Event ini bukan sekadar balapan sepeda biasa, melainkan sebuah mini cyclocross yang kami desain khusus untuk menguji kekuatan, ketangkasan, dan fokus setiap peserta. 
 Dalam event ini, Anda akan merasakan pengalaman mirip dengan olahraga wrestling—di mana setiap peserta harus menghadapi berbagai rintangan, mulai dari gowes, turun, mengangkat sepeda, hingga melewati kolam air yang menantang. Setiap detik waktu membutuhkan konsentrasi penuh dan stamina tenaga yang prima.</p>
@@ -134,7 +138,7 @@ Dalam event ini, Anda akan merasakan pengalaman mirip dengan olahraga wrestling�
                         <div class="mx-auto max-w-screen-sm text-center lg:mb-16 mb-8">
                             <h2
                                 class="mb-4 text-3xl tracking-wide lg:text-4xl tracking-tight font-extrabold text-white dark:text-white">
-                                Kategori</h2>
+                                Kategori 🚀</h2>
                         </div>
                         <div class="grid gap-4 lg:grid-cols-3">
                             <article
