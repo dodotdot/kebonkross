@@ -20,8 +20,8 @@
                                      <div class=" text-white text-md w-full mx-2 p-2 mb-6">
                                          <vue3-flip-countdown 
                                          class="p-2 bg-white mx-3 w-1/2" 
-                                         countdownSize="2rem"
-                                        labelSize="1rem"
+                                         countdownSize="1.5rem"
+                                        labelSize=".5rem"
                                         deadline="2024-11-30 00:00:00" />
                                      </div>   
                                      
