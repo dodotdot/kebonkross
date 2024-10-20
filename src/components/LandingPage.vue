@@ -4,7 +4,7 @@
             <div class="relative z-30 p-5 text-white bg-black h-full w-full bg-opacity-70 "
                 >
                 <div class="w-full bg-cover ">
-                    <div class="flex items-center justify-center w-full h-full bg-opacity-50 py-12">
+                    <div class="flex items-center justify-center w-full h-full bg-opacity-50 py-8">
                         <div class="text-center">
                             <div class="container px-4 mx-auto">
                                 <div class="max-w-4xl mx-auto text-center">
@@ -13,11 +13,18 @@
                                         alt="">
                                     <img class="mx-auto w-3/4" src="@/assets/logo-kebonkross.png" alt="">
 
-                                    <!-- <h1
-                                        class="my-8 text-2xl font-extrabold leading-none text-white md:text-2xl lg:text-2xl dark:text-white">
-                                        Sabtu, 16 Desember 2023</h1> -->
-                                    <!-- <vue3-flip-countdown 
-                                    deadline="2023-12-15 00:00:00" /> -->
+                                    <h1
+                                        class="my-8 text-3xl font-extrabold leading-none text-white md:text-3xl lg:text-3xl dark:text-white">
+                                        Sabtu, 30 November 2024</h1>
+                                     <p class="text-lg mb-5 -mt-4">07:00 AM - Until Done</p>   
+                                     <div class=" text-white text-md w-full mx-2 p-2 mb-6">
+                                         <vue3-flip-countdown 
+                                         class="p-2 bg-white mx-3 w-1/2" 
+                                         countdownSize="2rem"
+                                        labelSize="1rem"
+                                        deadline="2024-11-15 00:00:00" />
+                                     </div>   
+                                     
                                     <p class="max-w-3xl mx-auto mb-10 text-md text-gray-300">
                                         KEBONKROSS adalah "Lebaran-nya" Cyclocross
                                         Indonesia (CXID). <br>
@@ -25,9 +32,9 @@
                                         namun tetap dengan nuansa balap ala cyclocross, dimana lintasan balap berupa tanah yang dipadu dengan beberapa rintangan buatan maupun alami.
                                     </p>
 
-                                    <p class="text-xl my-6 font-semibold">KEBONKROSS 2024</p>
+                                    <p class="text-xl my-6 font-semibold">KEBONKROSS 2024 - Registration is now open</p>
                                     <a class="inline-block bg-green-600 cursor-pointer w-full md:w-auto mb-4 md:mr-6 py-5 px-8 text-sm font-bold uppercase border-2 border-transparent rounded hover:bg-green-800 text-white transition duration-200"
-                                        href="#registernow">Daftar Balap</a>
+                                        href="#registernow">Daftar Sekarang</a>
                                 </div>
                             </div>
 
@@ -62,14 +69,16 @@
                                 kurang lebih 300 meter untuk 1 lap, dengan lebar 2-3 meter. Obstacle terdiri dari plank barrier,
                                 mud, dan lain-lain.
                             </p>
-                            <!-- <p class="mb-4 text-lg">
+                            <p class="mb-4 text-lg">
                                 <img class=" inline-block" src="@/assets/pointmap.svg" alt="">
-                                Pekarangan halaman Lembah Pinus, Pondok Jaya, Bintaro.
+                                Situ gintung, Situ gintung Island 3
                             </p>
                             <div class="mx-auto max-h-full" style="height:500px;">
-                                <iframe class="w-full h-full"
-                                    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyARNP6PBrYdKNmsYf09tU8jRnffQb-sFQg&amp;q=6%C2%B016%2721.4%22S+106%C2%B043%2705.2%22E"></iframe>
-                            </div> -->
+                                <!-- <iframe class="w-full h-full"
+                                    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyARNP6PBrYdKNmsYf09tU8jRnffQb-sFQg&amp;q=6%C2%B016%2721.4%22S+106%C2%B043%2705.2%22E"></iframe> -->
+                                    <iframe class="w-full h-full"
+                                        src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1982.8384094280814!2d106.76064353852516!3d-6.306122998420768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwMTgnMjIuMCJTIDEwNsKwNDUnNDMuMCJF!5e0!3m2!1sen!2sus!4v1729431983589!5m2!1sen!2sus" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </div>
                         </div>
 
                     </div>
@@ -87,9 +96,15 @@
                 <div class="text-center">
                     <div class="container px-4 mx-auto">
                         <h2
+                                class="my-8 italic text-3xl tracking-wide lg:text-4xl font-extrabold text-white dark:text-white">
+                                “KEBONKROSS IS WRESTLING”</h2>
+                        <p class="p-2 text-white">Bersiaplah untuk tantangan penuh adrenalin di Kebonkross 2024!
+Event ini bukan sekadar balapan sepeda biasa, melainkan sebuah mini cyclocross yang kami desain khusus untuk menguji kekuatan, ketangkasan, dan fokus setiap peserta. 
+Dalam event ini, Anda akan merasakan pengalaman mirip dengan olahraga wrestling—di mana setiap peserta harus menghadapi berbagai rintangan, mulai dari gowes, turun, mengangkat sepeda, hingga melewati kolam air yang menantang. Setiap detik waktu membutuhkan konsentrasi penuh dan stamina tenaga yang prima.</p>
+                        <h2
                                 class="my-8 text-3xl tracking-wide lg:text-4xl font-extrabold text-white dark:text-white">
                                 Peraturan Umum</h2>
-                         <div class="w-full">
+                         <div class="w-1/2 m-auto">
                             <article
                                 class="p-4 bg-white w-full rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                                 <ol
