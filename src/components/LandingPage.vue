@@ -9,7 +9,7 @@
                                 <div class="max-w-4xl mx-auto text-center">
                                     <img class="w-12 lg:w-20 p-2 mx-auto  mb-12" src="@/assets/img/cx-id-logo.png"
                                         alt="">
-                                    <img class="mx-auto w-3/4" src="@/assets/logo-kebonkross.png" alt="">
+                                    <img class="mx-auto w-1/2" src="@/assets/logo-kebonkross.png" alt="">
 
                                     <h1
                                         class="my-8 text-3xl font-extrabold leading-none text-white md:text-3xl lg:text-3xl dark:text-white">
